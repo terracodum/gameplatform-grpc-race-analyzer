@@ -1,0 +1,23 @@
+# Binary
+/bin/
+*.exe
+
+# Go
+vendor/
+
+# Env
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Proto generated
+*.pb.go
+
+# Goose
+*.sql~
